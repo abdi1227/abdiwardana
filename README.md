@@ -11,9 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Nama : M. Abdi Wardana
+Nim  : 11653101560 
+Kelas: Sif 6 E
+
+Saya mulai masuk uin pada tahun 2016 dan mengambil jurusan sistem informasi di fakultas di Sain & Teknologi
+
+[SIF UIN SUSKA]http://sif.uin-suska.ac.id/
+[UIN SUSKA]http://uin-suska.ac.id/
 
 - Bulleted
 - List
