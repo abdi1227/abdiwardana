@@ -18,6 +18,8 @@ Kelas: Sif 6 E
 Saya mulai masuk uin pada tahun 2016 dan mengambil jurusan sistem informasi di fakultas di Sain & Teknologi
 
 [SIF UIN SUSKA](http://sif.uin-suska.ac.id/)
+
+[SIF UIN SUSKA](http://sif.uin-suska.ac.id/)
 [UIN SUSKA](http://uin-suska.ac.id/)
 
 - Bulleted
