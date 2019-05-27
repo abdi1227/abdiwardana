@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/abdi1227/abdiwardana/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[sif uin suska](http://sif.uin-suska.ac.id/)
+
+[UIN SUSKA](http://uin-suska.ac.id/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -17,9 +20,6 @@ Kelas: Sif 6 E
 
 Saya mulai masuk uin pada tahun 2016 dan mengambil jurusan sistem informasi di fakultas di Sain & Teknologi
 
-[SIF UIN SUSKA](http://sif.uin-suska.ac.id/)
-[SIF UIN SUSKA](http://sif.uin-suska.ac.id/)
-[UIN SUSKA](http://uin-suska.ac.id/)
 
 - Bulleted
 - List
